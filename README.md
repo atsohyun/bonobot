@@ -10,8 +10,8 @@ Motivational interviewing (MI) is a directive, client-centered counseling apprao
 
 ### Design
 Using the MI micro-skills, we designed a four-staged MI session in a chatbot conversation. In each stage, we allotted specific sequences of MI micro-skills for chatbot responses. To maintain conversation context, we listed up 100 topical keywords extracted from analyzing Reddit posts ([r/PhD](reddit.com/r/PhD) and [r/GradSchool](reddit.com/r/GradSchool)). Each keyword entails sequences of MI micro-skills, one of which is used for a designated turn in a given stage of conversation. Examples of Bonobot conversation can be found below. For more information, please refer to our [research article](https://www.jmir.org/2019/4/e12231/). <br>
-<img src="/example/focusing.png" width="300px" height="300px" alt="Focusing"></img>
-<img src="/example/evoking.png" width="300px" height="300px" alt="Evoking"></img><br/>
+<img src="/example/focusing.png" width="320px" height="300px" alt="Focusing"></img>
+<img src="/example/evoking.png" width="320px" height="300px" alt="Evoking"></img><br/>
 
 ### Acknowledgement
 For source, contact [one](https://github.com/cockroach54/Bonobot) of our awesome research collaborators! 
